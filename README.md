@@ -10,4 +10,9 @@ Report outlining your proposed solution.
 Sequence diagrams showing how to navigate the university object model to deliver performance metrics needed for performance and feedback.
 A class diagram showing the changes to the university model to support the new capabilities. This diagram must include the additional methods and attributes required to deliver the results.
 
+Group Details:
+1. Roopa Subramanian 
+2. Tanya Shah
+3. Aishwarya Subramanian 
+
 # subramanian_roopa_002981255_assignment3
